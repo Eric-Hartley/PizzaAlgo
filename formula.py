@@ -7,3 +7,7 @@ def add():
 
 
 print(add())
+
+
+def sub():
+    return a - b
