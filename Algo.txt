@@ -1,3 +1,7 @@
 Step 1: Choose which pizza place to order from
+    Step 1.A: Confirm which location ordering from
 Step 2: Choose your pizza
-Step 3: Order and enjoy!
+    Step 2.A: Confirm pizza selection and toppings
+    Step 2.B: If incorrect, go back to pizza customizer
+Step 3: Review order and confirm
+Step 4: Order 
