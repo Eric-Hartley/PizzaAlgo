@@ -6,8 +6,11 @@ def add():
     return a + b
 
 
-print(add())
+# print(add())
 
 
 def sub():
     return a - b
+
+
+print(sub())
